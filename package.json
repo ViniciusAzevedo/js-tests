@@ -1,0 +1,15 @@
+{
+  "name": "PairProg",
+  "version": "1",
+  "description": "Pair Programming Skills",
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "author": "Vinicius",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  }
+}
