@@ -4,9 +4,13 @@
 
 1. npm i -g yarn
 2. cd js-tests
-2. yarn install
+3. yarn install
 
 - Executar testes
 
 1. yarn test
 
+-  Verificar cobertura dos testes
+
+1. npm i -g nyc
+2. nyc yarn test
